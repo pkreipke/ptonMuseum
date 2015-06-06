@@ -1,0 +1,1862 @@
+[
+    {
+        "ObjectID": "34085",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "18583",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "19128",
+        "Continent": "Europe",
+        "Country": "South Italy"
+    },
+    {
+        "ObjectID": "34202",
+        "Continent": "Asia",
+        "Country": ""
+    },
+    {
+        "ObjectID": "34110",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "34742",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "19156",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "19206",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "19746",
+        "Continent": "",
+        "Country": "Syria"
+    },
+    {
+        "ObjectID": "19782",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "19912",
+        "Continent": "",
+        "Country": "Iran"
+    },
+    {
+        "ObjectID": "19968",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "20038",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "46950",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "47087",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "20105",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "20106",
+        "Continent": "Europe",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "21302",
+        "Continent": "Europe",
+        "Country": "Greece"
+    },
+    {
+        "ObjectID": "21305",
+        "Continent": "Europe",
+        "Country": "Greece"
+    },
+    {
+        "ObjectID": "20821",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "3139",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "21699",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "21730",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "3656",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "3658",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "21911",
+        "Continent": "",
+        "Country": "Turkey"
+    },
+    {
+        "ObjectID": "21946",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "21914",
+        "Continent": "Asia",
+        "Country": "India"
+    },
+    {
+        "ObjectID": "22247",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22043",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "4713",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22394",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "4802",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22614",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22615",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22079",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "23197",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22781",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "22886",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "5509",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "5237",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23553",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "5253",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23270",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23342",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "23727",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8047",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "7748",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8161",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8421",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "6306",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8740",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23700",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23705",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23744",
+        "Continent": "Europe",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "23367",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23368",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "23888",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "42128",
+        "Continent": "Africa",
+        "Country": "Ethiopia"
+    },
+    {
+        "ObjectID": "24418",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "24317",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "24185",
+        "Continent": "Europe",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "24311",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "24435",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "24559",
+        "Continent": "",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "24539",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "24513",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8833",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "24004",
+        "Continent": "Africa",
+        "Country": "Angola or Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "24006",
+        "Continent": "",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "9449",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "24961",
+        "Continent": "Europe",
+        "Country": "South Germany"
+    },
+    {
+        "ObjectID": "24455",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "27252",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "27763",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28079",
+        "Continent": "",
+        "Country": "Turkey"
+    },
+    {
+        "ObjectID": "9790",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "9793",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28094",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "9654",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28330",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28154",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "27895",
+        "Continent": "Europe",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "28405",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "28649",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28869",
+        "Continent": "Asia",
+        "Country": "India"
+    },
+    {
+        "ObjectID": "28956",
+        "Continent": "Europe",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "28732",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28768",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28905",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "28760",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "29134",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "54924",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "29106",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "29435",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "29317",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "29339",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "29121",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "29713",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "29783",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "29456",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "29430",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "29551",
+        "Continent": "",
+        "Country": "Turkey"
+    },
+    {
+        "ObjectID": "30115",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "30003",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "29888",
+        "Continent": "",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "30357",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "61754",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "30620",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "30812",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "31412",
+        "Continent": "North America",
+        "Country": "probably Guatemala"
+    },
+    {
+        "ObjectID": "31536",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "11023",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31509",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31420",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "31803",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31852",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31671",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "31949",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31750",
+        "Continent": "Africa",
+        "Country": "Gabon"
+    },
+    {
+        "ObjectID": "31589",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "31504",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "54926",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "31450",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "12553",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31985",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32015",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32162",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "32190",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "31872",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32221",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "32255",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "13024",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32269",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "32156",
+        "Continent": "",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "31507",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32272",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32245",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32262",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "109043",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "32366",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "31653",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32129",
+        "Continent": "Europe",
+        "Country": "South Italy"
+    },
+    {
+        "ObjectID": "50399",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32360",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32381",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32455",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32574",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "32343",
+        "Continent": "Europe",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "32576",
+        "Continent": "Europe",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "32428",
+        "Continent": "Europe",
+        "Country": "Netherlands"
+    },
+    {
+        "ObjectID": "32578",
+        "Continent": "Africa",
+        "Country": "East Angola or Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "32473",
+        "Continent": "",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "32345",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "32714",
+        "Continent": "North America",
+        "Country": "Northern Belize or Quintana Roo, Mexico"
+    },
+    {
+        "ObjectID": "32550",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "15009",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32773",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32792",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "14756",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32749",
+        "Continent": "Europe",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "32806",
+        "Continent": "Europe",
+        "Country": "South Italy"
+    },
+    {
+        "ObjectID": "32752",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32688",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "32799",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "32737",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32603",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32771",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32872",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "32861",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32890",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "15941",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32802",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32898",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32845",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "33030",
+        "Continent": "Asia",
+        "Country": "India"
+    },
+    {
+        "ObjectID": "32921",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "16210",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32836",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "32970",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33070",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32983",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "32967",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "33083",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "32213",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33048",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33195",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "16541",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "16615",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33277",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "33213",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33185",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33158",
+        "Continent": "",
+        "Country": "South Italy"
+    },
+    {
+        "ObjectID": "33104",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33281",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33239",
+        "Continent": "Europe",
+        "Country": "Italy"
+    },
+    {
+        "ObjectID": "33227",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33295",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33368",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33230",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "17473",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33418",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33507",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "17552",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "17972",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33539",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33540",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "33564",
+        "Continent": "Europe",
+        "Country": "Netherlands"
+    },
+    {
+        "ObjectID": "33721",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "33665",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33737",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "33643",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33669",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "33548",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "33504",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "33707",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33616",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "33740",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "33754",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "33690",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "18615",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "34115",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "34052",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "34095",
+        "Continent": "Africa",
+        "Country": "Ghana"
+    },
+    {
+        "ObjectID": "34137",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33952",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "33873",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "45910",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "2843",
+        "Continent": "Asia",
+        "Country": "Indonesia"
+    },
+    {
+        "ObjectID": "2854",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "4568",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "48056",
+        "Continent": "Africa",
+        "Country": "Southwest Nigeria or West Cameroon"
+    },
+    {
+        "ObjectID": "46966",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "47145",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "4948",
+        "Continent": "Europe",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "2732",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "5363",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "12950",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "8102",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "8146",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "10003",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "8515",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "38193",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "38282",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "8894",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "8905",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "37441",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "38058",
+        "Continent": "South America",
+        "Country": "Peru, Argentina, or Chile"
+    },
+    {
+        "ObjectID": "37715",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "37626",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "37297",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "61903",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "36296",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "61904",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "61905",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "36273",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "35203",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "37468",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "35073",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "36384",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "36457",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "36732",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "36837",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "37280",
+        "Continent": "Africa",
+        "Country": "South Africa"
+    },
+    {
+        "ObjectID": "36998",
+        "Continent": "Africa",
+        "Country": "South Africa and Mozambique"
+    },
+    {
+        "ObjectID": "37036",
+        "Continent": "Africa",
+        "Country": "South Africa or Swaziland"
+    },
+    {
+        "ObjectID": "37197",
+        "Continent": "Africa",
+        "Country": "Zimbabwe"
+    },
+    {
+        "ObjectID": "36758",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "36911",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "36947",
+        "Continent": "",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "36357",
+        "Continent": "Africa",
+        "Country": "Democratic Republic of the Congo"
+    },
+    {
+        "ObjectID": "36849",
+        "Continent": "Africa",
+        "Country": "Ghana"
+    },
+    {
+        "ObjectID": "37002",
+        "Continent": "Africa",
+        "Country": "Ghana"
+    },
+    {
+        "ObjectID": "37099",
+        "Continent": "Africa",
+        "Country": "Cameroon"
+    },
+    {
+        "ObjectID": "37122",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "36982",
+        "Continent": "Africa",
+        "Country": "Rwanda or Burundi"
+    },
+    {
+        "ObjectID": "36802",
+        "Continent": "Africa",
+        "Country": "Mali"
+    },
+    {
+        "ObjectID": "36000",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "35195",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "35147",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "37985",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "39108",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "37279",
+        "Continent": "North America",
+        "Country": "Belize, Guatemala, or Mexico"
+    },
+    {
+        "ObjectID": "39164",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "39434",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "38856",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "46033",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "39668",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "38924",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "39884",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "39738",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "38572",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "40597",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "55280",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "40520",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "40727",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "40593",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "40958",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "40988",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "40995",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "41410",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "41407",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "41415",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "40297",
+        "Continent": "North America",
+        "Country": "Honduras"
+    },
+    {
+        "ObjectID": "41430",
+        "Continent": "",
+        "Country": "Iran"
+    },
+    {
+        "ObjectID": "41431",
+        "Continent": "",
+        "Country": "Iran"
+    },
+    {
+        "ObjectID": "41435",
+        "Continent": "",
+        "Country": "Iran"
+    },
+    {
+        "ObjectID": "41436",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "41479",
+        "Continent": "Asia",
+        "Country": "Nepal"
+    },
+    {
+        "ObjectID": "41743",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "41786",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "41769",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "41754",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "41978",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "41971",
+        "Continent": "",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "41991",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "42114",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "42295",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "42249",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "42370",
+        "Continent": "",
+        "Country": "Turkey"
+    },
+    {
+        "ObjectID": "42377",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "42386",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "19025",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "21982",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "43322",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "43333",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "42352",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "43405",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "43412",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "44125",
+        "Continent": "Asia",
+        "Country": "Korea"
+    },
+    {
+        "ObjectID": "45004",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "47568",
+        "Continent": "Asia",
+        "Country": "China"
+    },
+    {
+        "ObjectID": "47566",
+        "Continent": "North America",
+        "Country": "Belize, Guatemala, or Mexico"
+    },
+    {
+        "ObjectID": "42477",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "42654",
+        "Continent": "North America",
+        "Country": "Guatemala"
+    },
+    {
+        "ObjectID": "42655",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "42742",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "51625",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "52947",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "52872",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "16688",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "55498",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "55556",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "56238",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "56301",
+        "Continent": "",
+        "Country": "France"
+    },
+    {
+        "ObjectID": "56266",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "55895",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "56362",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "56358",
+        "Continent": "Asia",
+        "Country": "Japan"
+    },
+    {
+        "ObjectID": "57122",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "57129",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "57132",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "58323",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "58880",
+        "Continent": "Asia",
+        "Country": "Korea"
+    },
+    {
+        "ObjectID": "59080",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "59651",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "60129",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "60785",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "61090",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "61092",
+        "Continent": "South America",
+        "Country": "Peru"
+    },
+    {
+        "ObjectID": "61091",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "62508",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "62897",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "65164",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "73907",
+        "Continent": "Africa",
+        "Country": "Nigeria"
+    },
+    {
+        "ObjectID": "80800",
+        "Continent": "North America",
+        "Country": "Mexico"
+    },
+    {
+        "ObjectID": "9659",
+        "Continent": "North America",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "45237",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "45301",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "45424",
+        "Continent": "",
+        "Country": ""
+    },
+    {
+        "ObjectID": "39817",
+        "Continent": "",
+        "Country": "United States"
+    },
+    {
+        "ObjectID": "45067",
+        "Continent": "",
+        "Country": ""
+    }
+]

@@ -1,0 +1,373 @@
+RowID,ObjectID,Geography_Type,Continent,Subcontinent,Country
+1,34085,,,,
+2,18583,,,,
+3,19128,Place made,Europe,,South Italy
+4,34202,Place excavated,Asia,,
+5,34110,,,,
+6,34742,,,,
+7,19156,,,,
+8,19206,,,,
+9,19746,Geographic Attribution,,,Syria
+10,19782,,,,
+11,19912,Place made,,,Iran
+12,19968,,,,
+13,20038,,,,
+14,46950,,,,
+15,47087,,,,
+16,20105,,,,
+17,20106,Place made,Europe,,France
+18,21302,Place made,Europe,,Greece
+19,21305,Place made,Europe,,Greece
+20,20821,,,,
+21,3139,,,,
+22,21699,,,,
+23,21730,,,,
+24,3656,,,,
+25,3658,,,,
+26,21911,Place made,,,Turkey
+27,21946,,,,
+28,21914,Place made,Asia,,India
+29,22247,,,,
+30,22043,,,,
+31,4713,,,,
+32,22394,,,,
+33,4802,,,,
+34,22614,,,,
+35,22615,,,,
+36,22079,Place made,North America,,United States
+37,23197,,,,
+38,22781,,,,
+39,22886,Place made,Asia,,China
+40,5509,,,,
+41,5237,,,,
+42,23553,Place made,Asia,,China
+43,5253,,,,
+44,23270,,,,
+45,23342,Place made,Asia,,China
+46,23727,,,,
+47,8047,,,,
+48,7748,,,,
+49,8161,,,,
+50,8421,,,,
+51,6306,,,,
+52,8740,,,,
+53,23700,,,,
+54,23705,,,,
+55,23744,Place made,Europe,,France
+56,23367,,,,
+57,23368,,,,
+58,23888,Place made,Asia,,China
+59,42128,Place made,Africa,,Ethiopia
+60,24418,Place made,Asia,,China
+61,24317,Place made,Asia,,Japan
+62,24185,Place made,Europe,,Italy
+63,24311,,,,
+64,24435,,,,
+65,24559,Place made,,,France
+66,24539,,,,
+67,24513,,,,
+68,8833,,,,
+69,24004,Place made,Africa,Central and South Africa,Angola or Democratic Republic of the Congo
+70,24006,Place made,,Central Africa,Democratic Republic of the Congo
+71,9449,,,,
+72,24961,Place made,Europe,,South Germany
+73,24455,,,,
+74,27252,,,,
+75,27763,,,,
+76,28079,Place made,,,Turkey
+77,9790,,,,
+78,9793,,,,
+79,28094,,,,
+80,9654,,,,
+81,28330,,,,
+82,28154,,,,
+83,27895,Place made,Europe,,France
+84,28405,Place made,Asia,,Japan
+85,28649,,,,
+86,28869,Place made,Asia,,India
+87,28956,Place made,Europe,,Italy
+88,28732,,,,
+89,28768,,,,
+90,28905,,,,
+91,28760,,,,
+92,29134,Place made,Africa,West Africa,Nigeria
+93,54924,Place made,Asia,,China
+94,29106,Place made,Asia,,China
+95,29435,Place made,Asia,,Japan
+96,29317,,,,
+97,29339,,,,
+98,29121,,,,
+99,29713,Place made,Asia,,China
+100,29783,Place made,Asia,,China
+101,29456,Place excavated,North America,Mesoamerica,Mexico
+102,29430,,,,
+103,29551,Place excavated,,,Turkey
+104,30115,Place made,Asia,,China
+105,30003,Place made,Asia,,Japan
+106,29888,Place made,,,United States
+107,30357,Place made,Asia,,China
+108,61754,Place made,Asia,,China
+109,30620,,,,
+110,30812,Place made,Asia,,Japan
+111,31412,Place made,North America,Mesoamerica,probably Guatemala
+112,31536,,,,
+113,11023,,,,
+114,31509,,,,
+115,31420,Place made,North America,Mesoamerica,Mexico
+116,31803,Place made,,,
+117,31852,,,,
+118,31671,Place made,Asia,,China
+119,31949,,,,
+120,31750,Place made,Africa,Central Africa,Gabon
+121,31589,Place made,North America,Mesoamerica,Mexico
+122,31504,Place made,North America,Mesoamerica,Mexico
+123,54926,Place made,North America,Mesoamerica,Mexico
+124,31450,Place made,North America,Mesoamerica,Mexico
+125,12553,,,,
+126,31985,,,,
+127,32015,,,,
+128,32162,Place made,South America,Andes,Peru
+129,32190,,,,
+130,31872,,,,
+131,32221,Place made,North America,Mesoamerica,Guatemala
+132,32255,Place made,Asia,,China
+133,13024,,,,
+134,32269,Place made,North America,Mesoamerica,Mexico
+135,32156,Place made,,,Italy
+136,31507,,,,
+137,32272,,,,
+138,32245,,,,
+139,32262,Place made,North America,Mesoamerica,Mexico
+140,109043,Place made,North America,Mesoamerica,Mexico
+141,32366,Place made,North America,Mesoamerica,Mexico
+142,31653,,,,
+143,32129,Place made,Europe,,South Italy
+144,50399,,,,
+145,32360,,,,
+146,32381,,,,
+147,32455,,,,
+148,32574,Place made,Asia,,China
+149,32343,Place made,Europe,,France
+150,32576,Place made,Europe,,Italy
+151,32428,Place made,Europe,,Netherlands
+152,32578,Place made,Africa,Central Africa,East Angola or Democratic Republic of the Congo
+153,32473,Place made,,Central Africa,Democratic Republic of the Congo
+154,32345,Place made,North America,Mesoamerica,Mexico
+155,32714,Place made,North America,Mesoamerica,"Northern Belize or Quintana Roo, Mexico"
+156,32550,Place made,South America,Andes,Peru
+157,15009,,,,
+158,32773,,,,
+159,32792,,,,
+160,14756,,,,
+161,32749,Place made,Europe,,Italy
+162,32806,Place made,Europe,,South Italy
+163,32752,,,,
+164,32688,Place made,Asia,,China
+165,32799,Place made,Asia,,China
+166,32737,,,,
+167,32603,,,,
+168,32771,,,,
+169,32872,Place made,Asia,,Japan
+170,32861,,,,
+171,32890,Place made,Asia,,Japan
+172,15941,,,,
+173,32802,,,,
+174,32898,,,,
+175,32845,Place made,North America,Mesoamerica,Guatemala
+176,33030,Place made,Asia,,India
+177,32921,Place made,Africa,Central Africa,Democratic Republic of the Congo
+178,16210,,,,
+179,32836,Place made,Asia,,Japan
+180,32970,,,,
+181,33070,,,,
+182,32983,,,,
+183,32967,Place made,Africa,Central Africa,Democratic Republic of the Congo
+184,33083,Place made,South America,Andes,Peru
+185,32213,Place made,North America,Mesoamerica,Mexico
+186,33048,Place made,,,
+187,33195,Place made,North America,Mesoamerica,Mexico
+188,16541,,,,
+189,16615,,,,
+190,33277,Place made,Asia,,Japan
+191,33213,,,,
+192,33185,,,,
+193,33158,Geographic Attribution,,,South Italy
+194,33104,,,,
+195,33281,,,,
+196,33239,Geographic Attribution,Europe,,Italy
+197,33227,Place made,North America,Mesoamerica,Mexico
+198,33295,Place made,North America,Mesoamerica,Mexico
+199,33368,Place made,North America,Mesoamerica,Mexico
+200,33230,Place made,South America,Andes,Peru
+201,17473,,,,
+202,33418,Place made,North America,Mesoamerica,Mexico
+203,33507,Place made,Africa,Central Africa,Democratic Republic of the Congo
+204,17552,,,,
+205,17972,,,,
+206,33539,,,,
+207,33540,Place made,North America,Mesoamerica,Mexico
+208,33564,Place made,Europe,,Netherlands
+209,33721,Place made,Asia,,Japan
+210,33665,,,,
+211,33737,Place made,Asia,,China
+212,33643,,,,
+213,33669,Place made,Africa,Central Africa,Democratic Republic of the Congo
+214,33548,Place made,Africa,Central Africa,Democratic Republic of the Congo
+215,33504,Place made,South America,Andes,Peru
+216,33707,,,,
+217,33616,Place made,North America,Mesoamerica,Guatemala
+218,33740,Place made,North America,Mesoamerica,Guatemala
+219,33754,Place made,North America,Mesoamerica,Guatemala
+220,33690,Place made,South America,Andes,Peru
+221,18615,,,,
+222,34115,,,,
+223,34052,,,,
+224,34095,Place made,Africa,West Africa,Ghana
+225,34137,,,,
+226,33952,,,,
+227,33873,,,,
+228,45910,,,,
+229,2843,Place made,Asia,,Indonesia
+230,2854,Place made,North America,Mesoamerica,Mexico
+231,4568,Place made,North America,Mesoamerica,Mexico
+232,48056,Place made,Africa,,Southwest Nigeria or West Cameroon
+233,46966,,,,
+234,47145,,,,
+235,4948,Place made,Europe,,France
+236,2732,,,,
+237,5363,Place made,Asia,,China
+238,12950,Place made,Africa,West Africa,Nigeria
+239,8102,Place made,Asia,,China
+240,8146,,,,
+241,10003,,,,
+242,8515,,,,
+243,38193,Place collected,North America,Arctic,United States
+244,38282,Place excavated,North America,Arctic,United States
+245,8894,Place made,South America,Andes,Peru
+246,8905,Place made,North America,Mesoamerica,Guatemala
+247,37441,Place made,North America,Mesoamerica,Mexico
+248,38058,Place made,South America,Andes,"Peru, Argentina, or Chile"
+249,37715,,,,
+250,37626,,,,
+251,37297,,,,
+252,61903,Place made,Asia,,China
+253,36296,Place made,Asia,,China
+254,61904,Place made,Asia,,China
+255,61905,Place made,Asia,,China
+256,36273,Place made,Asia,,China
+257,35203,Place made,Asia,,China
+258,37468,Place made,Asia,,China
+259,35073,,,,
+260,36384,Place made,North America,Mesoamerica,Guatemala
+261,36457,Place made,Asia,,China
+262,36732,Place excavated,North America,Arctic,United States
+263,36837,Place excavated,North America,Arctic,United States
+264,37280,Place made,Africa,,South Africa
+265,36998,Place made,Africa,,South Africa and Mozambique
+266,37036,Place made,Africa,,South Africa or Swaziland
+267,37197,Place made,Africa,Southern Africa,Zimbabwe
+268,36758,Place made,Africa,Central Africa,Democratic Republic of the Congo
+269,36911,Place made,Africa,Central Africa,Democratic Republic of the Congo
+270,36947,Place made,,Central Africa,Democratic Republic of the Congo
+271,36357,Place made,Africa,Central Africa,Democratic Republic of the Congo
+272,36849,Place made,Africa,West Africa,Ghana
+273,37002,Place made,Africa,West Africa,Ghana
+274,37099,Place made,Africa,Central Africa,Cameroon
+275,37122,Place made,Africa,West Africa,Nigeria
+276,36982,Place made,Africa,,Rwanda or Burundi
+277,36802,Place made,Africa,West Africa,Mali
+278,36000,Place made,Asia,,Japan
+279,35195,Place made,Asia,,China
+280,35147,,,,
+281,37985,,,,
+282,39108,Place made,Asia,,Japan
+283,37279,Place made,North America,Mesoamerica,"Belize, Guatemala, or Mexico"
+284,39164,Place made,North America,Mesoamerica,Mexico
+285,39434,,,,
+286,38856,,,,
+287,46033,Place made,North America,Mesoamerica,Mexico
+288,39668,,,,
+289,38924,,,,
+290,39884,,,,
+291,39738,,,,
+292,38572,,,,
+293,40597,Place made,Asia,,China
+294,55280,Place made,Asia,,China
+295,40520,,,,
+296,40727,,,,
+297,40593,Place made,North America,Mesoamerica,Mexico
+298,40958,,,,
+299,40988,Place made,Asia,,China
+300,40995,Place made,Asia,,China
+301,41410,Place made,Asia,,Japan
+302,41407,,,,
+303,41415,,,,
+304,40297,Place made,North America,Mesoamerica,Honduras
+305,41430,Place made,,,Iran
+306,41431,Place made,,,Iran
+307,41435,Place made,,,Iran
+308,41436,,,,
+309,41479,Place made,Asia,,Nepal
+310,41743,Place made,Africa,West Africa,Nigeria
+311,41786,Place made,Asia,,China
+312,41769,,,,
+313,41754,,,,
+314,41978,,,,
+315,41971,Place made,,,Japan
+316,41991,Place excavated,North America,Mesoamerica,Mexico
+317,42114,,,,
+318,42295,Place made,North America,Mesoamerica,Mexico
+319,42249,,,,
+320,42370,Geographic Attribution,,,Turkey
+321,42377,,,,
+322,42386,Place made,North America,Mesoamerica,Mexico
+323,19025,,,,
+324,21982,,,,
+325,43322,Place made,Asia,,Japan
+326,43333,Place made,Asia,,Japan
+327,42352,,,,
+328,43405,Place made,North America,Mesoamerica,Mexico
+329,43412,,,,
+330,44125,Place made,Asia,,Korea
+331,45004,,,,
+332,47568,Place made,Asia,,China
+333,47566,Place made,North America,Mesoamerica,"Belize, Guatemala, or Mexico"
+334,42477,,,,
+335,42654,Place made,North America,Mesoamerica,Guatemala
+336,42655,,,,
+337,42742,,,,
+338,51625,,,,
+339,52947,,,,
+340,52872,,,,
+341,16688,Place made,North America,Mesoamerica,Mexico
+342,55498,,,,
+343,55556,,,,
+344,56238,,,,
+345,56301,Place made,,,France
+346,56266,,,,
+347,55895,Place made,Asia,,Japan
+348,56362,,,,
+349,56358,Place made,Asia,,Japan
+350,57122,Place made,,,
+351,57129,Place made,North America,Mesoamerica,Mexico
+352,57132,Place made,South America,Andes,Peru
+353,58323,,,,
+354,58880,Place made,Asia,,Korea
+355,59080,Place excavated,North America,American southwest,United States
+356,59651,,,,
+357,60129,Place made,Africa,West Africa,Nigeria
+358,60785,,,,
+359,61090,Place made,Africa,West Africa,Nigeria
+360,61092,Place made,South America,Andes,Peru
+361,61091,Place made,Africa,West Africa,Nigeria
+362,62508,,,,
+363,62897,,,,
+364,65164,,,,
+365,73907,Place made,Africa,West Africa,Nigeria
+366,80800,Place made,North America,Mesoamerica,Mexico
+367,9659,Place made,North America,,United States
+368,45237,,,,
+369,45301,,,,
+370,45424,,,,
+371,39817,Place made,,,United States
+372,45067,Place depicted,,,

@@ -1,0 +1,788 @@
+RowID,ObjectID,Term
+1,18583,paintings
+2,18583,tempera
+3,19128,amphorae
+4,19156,pyxides
+5,19206,aryballoi
+6,19746,busts
+7,19746,high relief
+8,19746,keystone
+9,19746,sculpture
+10,19782,jars
+11,19912,figures (representations)
+12,19912,figurines
+13,19912,vessels
+14,19968,paintings
+15,20038,kantharos
+16,46950,etching
+17,47087,books
+18,47087,engravings
+19,20105,oil paintings
+20,20106,paintings
+21,21302,ornament
+22,21305,ornament
+23,20821,oil paintings
+24,3139,drawings
+25,3139,sketchbooks
+26,21699,oil paintings
+27,21730,oil paintings
+28,21730,sketches
+29,3656,drawings
+30,3658,drawings
+31,3658,watercolors
+32,21911,ivories
+33,21911,plaques (flat objects)
+34,21911,reliefs
+35,21946,oil paintings
+36,21914,friezes (ornamental bands)
+37,21914,reliefs
+38,22247,oil paintings
+39,22043,oil paintings
+40,22043,paintings
+41,4713,drawings
+42,22394,oil paintings
+43,4802,drawings
+44,22614,oil paintings
+45,22615,oil paintings
+46,22079,sculptures
+47,23197,busts
+48,23197,portraits
+49,22781,oil paintings
+50,22886,Chinese painting styles
+51,22886,hanging scrolls
+52,22886,scroll paintings
+53,5509,watercolors
+54,5237,drawings
+55,23553,Chinese painting styles
+56,23553,hanging scrolls
+57,23553,scroll paintings
+58,5253,drawings
+59,23270,portraits
+60,23270,sculptures
+61,23342,Chinese painting styles
+62,23342,hanging scrolls
+63,23342,scroll paintings
+64,23727,statues
+65,8047,drawings
+66,8047,studies (visual works)
+67,7748,drawings
+68,7748,studies (visual works)
+69,8161,drawings
+70,8161,studies (visual works)
+71,8421,drawings
+72,6306,drawings
+73,8740,drawings
+74,8740,studies (visual works)
+75,23700,oil paintings
+76,23700,portraits
+77,23705,funerary objects
+78,23705,sarcophagi
+79,23744,architectural elements
+80,23744,capitals and capital components
+81,23367,oil paintings
+82,23368,Panathenaic amphorae
+83,23888,statues
+84,42128,manuscripts
+85,24418,bronzes
+86,24418,drinking vessels
+87,24418,zun
+88,24317,hanging scrolls
+89,24317,Japanese painting styles
+90,24317,scroll paintings
+91,24185,funerary objects
+92,24185,relief
+93,24185,sarcophagi
+94,24185,tabernacle frames
+95,24311,oil paintings
+96,24435,oil paintings
+97,24559,sculpture
+98,24539,bronzes
+99,24539,sculpture
+100,24513,oil paintings
+101,8833,drawings
+102,8833,pastel
+103,24004,caryatids
+104,24004,headrests
+105,24004,sculpture
+106,24006,box (container)
+107,24006,carving
+108,24006,cosmetics
+109,9449,drawings
+110,9449,pastels
+111,24961,bust
+112,24961,sculpture
+113,24455,sculpture
+114,27252,landscapes (representations)
+115,27252,paintings
+116,27763,dishes
+117,28079,manuscripts
+118,9790,drawings
+119,9790,watercolors
+120,9793,drawings
+121,9793,watercolors
+122,28094,sculpture
+123,9654,drawings
+124,9654,preparatory studies
+125,28330,oil paintings
+126,28330,portrait
+127,28154,paintings
+128,27895,sculptures
+129,28405,handscrolls
+130,28405,Japanese painting styles
+131,28405,temples
+132,28649,oil paintings
+133,28869,relief
+134,28869,sculpture
+135,28869,stele
+136,28956,paintings
+137,28732,paintings
+138,28768,sculptures
+139,28905,paintings
+140,28905,tempera
+141,28760,paintings
+142,28760,tempera
+143,29134,bracelets (jewelry)
+144,29134,cuffs (costume components)
+145,29134,ornament
+146,54924,albums
+147,54924,calligraphy (visual work)
+148,54924,calligraphy (writing)
+149,54924,paintings
+150,29106,albums
+151,29106,Chinese painting styles
+152,29106,paintings
+153,29435,Japanese painting styles
+154,29435,paintings
+155,29435,screens (furniture)
+156,29317,oil paintings
+157,29339,oil paintings
+158,29121,oil paintings
+159,29121,portrait
+160,29713,bronzes
+161,29713,guang
+162,29713,vessels for serving drinks
+163,29783,bell (aerophone component)
+164,29783,bronzes
+165,29783,ceremonial objects
+166,29456,figure (representation)
+167,29456,sculpture
+168,29430,ceramics
+169,29430,jars
+170,29551,mosaic
+171,29551,mosaics
+172,30115,bottle
+173,30115,ceramics
+174,30115,glazing (coating)
+175,30003,religious art
+176,30003,sculpture
+177,29888,sofas
+178,30357,albums
+179,30357,calligraphy (visual work)
+180,30357,calligraphy (writing)
+181,30357,paintings
+182,61754,albums
+183,61754,calligraphy (visual work)
+184,61754,calligraphy (writing)
+185,61754,paintings
+186,30620,oil paintings
+187,30812,Japanese painting styles
+188,30812,paintings
+189,30812,screens (furniture)
+190,31412,vessels
+191,31536,oil paintings
+192,11023,drypoint
+193,11023,prints
+194,31509,oil paintings
+195,31420,faces
+196,31420,masks (costume)
+197,31420,sculpture
+198,31803,plaque
+199,31852,oil paintings
+200,31671,sculpture
+201,31949,chairs
+202,31750,reliquary figures
+203,31589,labrets
+204,31589,ornament
+205,31504,figures (representations)
+206,31504,figurines
+207,54926,ceramics
+208,54926,figures (representations)
+209,54926,figurines
+210,31450,figures (representations)
+211,31450,figurines
+212,12553,black-and-white photographs
+213,12553,black-and-white photography
+214,12553,gelatin silver prints
+215,31985,fragment
+216,31985,reliefs
+217,31985,sculpture
+218,32015,stained glass windows
+219,32162,ceramics
+220,32162,stirrup jar
+221,32162,vessels for serving drinks
+222,32190,oil paintings
+223,31872,oil paintings
+224,32221,ceramics
+225,32221,drinking vessels
+226,32221,vases
+227,32255,Chinese painting styles
+228,32255,hanging scrolls
+229,32255,scroll painting
+230,13024,albumen prints
+231,13024,black-and-white photographs
+232,13024,black-and-white photography
+233,32269,figurines
+234,32269,incising
+235,32156,figurines
+236,31507,oil paintings
+237,32272,oil paintings
+238,32272,portraits
+239,32245,oil paintings
+240,32245,portrait
+241,32262,figurines
+242,109043,figurines
+243,32366,figures (representations)
+244,32366,figurines
+245,31653,paintings
+246,31653,screen prints
+247,32129,ceramics
+248,32129,plate (dish)
+249,50399,books of hours
+250,50399,manuscripts
+251,50399,tempera
+252,32360,bronzes
+253,32360,crucifix
+254,32360,sculpture
+255,32381,oil paintings
+256,32455,oil paintings
+257,32574,ceramics
+258,32574,Chinese ceramics styles
+259,32574,jars
+260,32343,oil paintings
+261,32576,bronzes
+262,32576,sculpture
+263,32428,oil paintings
+264,32578,chairs
+265,32578,sculpture
+266,32473,mask (costume)
+267,32473,sculpture
+268,32345,figures (representations)
+269,32345,figurines
+270,32714,ceramics
+271,32714,effigies
+272,32714,figure (representation)
+273,32714,sculpture
+274,32714,vessels
+275,32550,faces
+276,32550,headdresses
+277,32550,metalworking and metalworking processes and techniques
+278,32550,ornament
+279,15009,drawings
+280,15009,watercolors
+281,32773,oil paintings
+282,32792,oil paintings
+283,14756,black-and-white photographs
+284,14756,black-and-white photography
+285,14756,salted paper prints
+286,32749,ceramics
+287,32749,Red-figure
+288,32749,vessels
+289,32749,volute krater
+290,32806,metope
+291,32806,relief
+292,32806,sculpture
+293,32752,portrait
+294,32752,sculpture
+295,32688,calligraphy (visual work)
+296,32688,calligraphy (writing)
+297,32688,Chinese painting styles
+298,32688,handscrolls
+299,32799,calligraphy (visual work)
+300,32799,calligraphy (writing)
+301,32799,Chinese painting styles
+302,32799,handscrolls
+303,32737,oil paintings
+304,32603,oil paintings
+305,32771,oil paintings
+306,32872,statues
+307,32861,painting (visual work)
+308,32861,watercolors
+309,32890,earthenware
+310,32890,Japanese ceramics styles
+311,32890,jar
+312,15941,black-and-white photographs
+313,15941,black-and-white photography
+314,15941,photograph
+315,32802,oil paintings
+316,32898,oil paintings
+317,32845,incising
+318,32845,ornament
+319,32845,pectorals
+320,33030,figurines
+321,33030,sculpture
+322,33030,terracottas
+323,32921,goblets
+324,32921,vessel
+325,16210,drawings
+326,16210,drawings
+327,32836,box (container)
+328,32970,funerary art
+329,32970,relief
+330,32970,sculpture
+331,32970,stelae
+332,33070,oil paintings
+333,32983,group portraits
+334,32983,oil paintings
+335,32967,beadwork
+336,32967,hats
+337,32967,textiles
+338,33083,ceramics
+339,33083,sculpture
+340,33083,vessel
+341,32213,faces
+342,32213,masks (costume)
+343,32213,ornament
+344,32213,pendants (jewelry)
+345,33048,handles: tool components
+346,33048,hydriae
+347,33195,ceremonial objects
+348,33195,relief
+349,16541,drawing
+350,16541,watercolors
+351,16615,black-and-white photographs
+352,16615,black-and-white photography
+353,16615,salted paper prints
+354,33277,hanging scrolls
+355,33277,Japanese painting styles
+356,33277,scroll paintings
+357,33213,statue
+358,33185,statue
+359,33158,ceramics
+360,33158,figure (representation)
+361,33158,statue
+362,33158,terracottas
+363,33104,bottle
+364,33104,ceramics
+365,33281,sculpture
+366,33281,sepulchral monuments
+367,33239,ceramics
+368,33239,terracottas
+369,33239,waterspout
+370,33227,earspools
+371,33227,ornament
+372,33295,jewelry
+373,33295,labret
+374,33295,ornament
+375,33368,ceramics
+376,33368,effigies
+377,33368,spouts
+378,33368,vessel
+379,33230,ceramics
+380,33230,spouts
+381,33230,vessel
+382,17473,color photographs
+383,17473,color photography
+384,17473,cyanotypes
+385,33418,figure (representation)
+386,33418,mirror
+387,33418,statues
+388,33507,mask (costume)
+389,33507,sculpture
+390,17552,albumen prints
+391,17552,black-and-white photographs
+392,17552,black-and-white photography
+393,17972,black-and-white photographs
+394,17972,black-and-white photography
+395,17972,gelatin silver prints
+396,33539,bronzes
+397,33539,sculpture
+398,33540,ceremonial objects
+399,33540,mirror
+400,33564,oil paintings
+401,33721,ceramics
+402,33721,figurines
+403,33721,funerary art
+404,33721,haniwa
+405,33721,tomb figures
+406,33665,oil paintings
+407,33737,calligraphy (visual work)
+408,33737,calligraphy (writing)
+409,33737,handscroll
+410,33643,figurine
+411,33643,gems
+412,33669,ceremonial objects
+413,33669,ornament
+414,33669,pendant (jewelry)
+415,33548,ceremonial object
+416,33548,ornament
+417,33548,pendant (jewelry)
+418,33504,diadems
+419,33504,ornament
+420,33707,books of hours
+421,33707,manuscript (document genre)
+422,33707,tempera
+423,33616,ceramics
+424,33616,cylinder (solid)
+425,33616,vase
+426,33740,bowls (vessels)
+427,33740,ceramics
+428,33754,bowls (vessels)
+429,33754,figures (representations)
+430,33690,spouts
+431,33690,vessels
+432,18615,drawing
+433,18615,study (visual work)
+434,34115,painting (visual work)
+435,34115,tempera
+436,34052,oil paintings
+437,34095,bracelet (jewelry)
+438,34095,ceremonial objects
+439,34095,ornament
+440,34137,oil paintings
+441,33952,paintings
+442,33873,oil paintings
+443,45910,drawings
+444,45910,gouaches
+445,2843,bronzes
+446,2843,hanging lamps
+447,2843,oil lamp
+448,2854,ceremonial objects
+449,2854,figures (representations)
+450,2854,pendants (jewelry)
+451,4568,bowl (vessel)
+452,4568,burnishing (polishing)
+453,4568,ceramics
+454,48056,emblem (symbol)
+455,48056,sculpture
+456,46966,oil paintings
+457,46966,studies (visual works)
+458,47145,black-and-white photographs
+459,47145,black-and-white photography
+460,47145,salted paper prints
+461,4948,relief
+462,4948,sculpture
+463,2732,drawing
+464,2732,watercolors
+465,5363,ceramic tile
+466,5363,relief
+467,12950,ceremonial object
+468,12950,headdress
+469,12950,sculpture
+470,8102,earthenware
+471,8102,equestrian statues
+472,8146,bronzes
+473,8146,figurines
+474,10003,amphorae
+475,8515,oil paintings
+476,38193,figurines
+477,38282,combs (grooming tools)
+478,8894,drums (membranophones)
+479,8894,funerary objects
+480,8894,musical instruments
+481,8905,plates (dishes)
+482,37441,ceramics
+483,37441,devotional object
+484,37441,figure (representation)
+485,38058,figurines
+486,37715,coffin
+487,37715,lid
+488,37715,painting (visual work)
+489,37715,sculpture
+490,37626,oil paintings
+491,37297,black-and-white photographs
+492,37297,black-and-white photography
+493,37297,salted paper prints
+494,61903,albums
+495,61903,calligraphy (visual work)
+496,61903,calligraphy (writing)
+497,61903,letters (correspondence)
+498,36296,albums
+499,36296,calligraphy
+500,36296,letters (correspondence)
+501,36296,painting (visual work)
+502,61904,albums
+503,61904,calligraphy
+504,61904,letters (correspondence)
+505,61904,painting (visual work)
+506,61905,albums
+507,61905,calligraphy
+508,61905,letters (correspondence)
+509,61905,painting (visual work)
+510,36273,calligraphy (visual work)
+511,36273,calligraphy (writing)
+512,36273,handscrolls
+513,35203,calligraphy (visual work)
+514,35203,calligraphy (writing)
+515,35203,handscrolls
+516,35203,letters (correspondence)
+517,37468,calligraphy (visual work)
+518,37468,calligraphy (writing)
+519,37468,handscrolls
+520,35073,drawing
+521,35073,sketch
+522,35073,studies (visual works)
+523,36384,censers
+524,36384,ceramics
+525,36384,incense burners
+526,36384,models (representations)
+527,36384,sculpture
+528,36457,ceramics
+529,36457,Chinese ceramics styles
+530,36457,jar
+531,36732,harpoons
+532,36837,figurines
+533,37280,furniture
+534,37280,headrest
+535,36998,headrests
+536,36998,sleeping and reclining furniture
+537,37036,furniture
+538,37036,headrest
+539,37197,furniture
+540,37197,headrest
+541,37197,scepter
+542,36758,furniture
+543,36758,sculpture
+544,36758,stool
+545,36911,box (container)
+546,36911,cosmetics
+547,36947,lids
+548,36947,pots
+549,36357,armor
+550,36357,emblems (symbols)
+551,36357,protective equipment
+552,36357,shield (armor)
+553,36357,weaving
+554,36849,armor
+555,36849,ceremonial costume
+556,36849,emblems (symbols)
+557,36849,hat
+558,36849,textiles
+559,37002,kente
+560,37002,textiles
+561,37002,weaving
+562,37099,ceremonial costume
+563,37099,cloak
+564,37099,textiles
+565,37099,tunic
+566,37122,beads
+567,37122,coronet (crown)
+568,37122,textiles
+569,36982,basket
+570,36982,textiles
+571,36802,ceremonial objects
+572,36802,mask (costume)
+573,36802,sculpture
+574,36000,box (container)
+575,36000,censer
+576,36000,incense burners
+577,36000,Japanese lacquer styles
+578,35195,ceramics
+579,35195,figure (representation)
+580,35195,funerary art
+581,35195,tomb figures
+582,35147,bronzes
+583,35147,cremation urns
+584,35147,vessel
+585,37985,chiaroscuro woodcuts
+586,37985,print
+587,39108,hanging scrolls
+588,39108,kakemonos
+589,39108,scroll paintings
+590,37279,relief
+591,37279,sculpture
+592,37279,stele
+593,39164,ceramics
+594,39164,figurines
+595,39434,ceramics
+596,39434,fragment
+597,39434,lekythos
+598,38856,sculpture
+599,46033,attendants
+600,46033,ceramics
+601,46033,figures (representations)
+602,46033,figurine
+603,39668,black-and-white photographs
+604,39668,black-and-white photography
+605,39668,daguerreotypes
+606,38924,cup
+607,38924,vessel
+608,39884,albumen prints
+609,39884,black-and-white photographs
+610,39884,black-and-white photography
+611,39738,gouaches
+612,38572,drawing
+613,38572,painting (visual work)
+614,38572,sketches
+615,38572,studies (visual works)
+616,40597,calligraphy (visual work)
+617,40597,calligraphy (writing)
+618,40597,handscrolls
+619,55280,ceramics
+620,55280,figures (representations)
+621,55280,tomb guardians
+622,40520,amphorae
+623,40520,ceramics
+624,40727,vessels
+625,40593,figurines
+626,40593,religious object
+627,40958,drawing
+628,40958,study (visual work)
+629,40988,ceramics
+630,40988,gui
+631,40988,vessel
+632,40995,stand (support furniture)
+633,40995,wine cups
+634,41410,ceramics
+635,41410,jars
+636,41407,figurines
+637,41415,oil paintings
+638,40297,sculpture
+639,40297,vase
+640,41430,onlays
+641,41431,onlays
+642,41435,bracteates (pendants)
+643,41435,onlays
+644,41436,relief
+645,41436,terracottas
+646,41479,fragment
+647,41479,relief
+648,41743,sculpture
+649,41743,stool
+650,41786,bronzes
+651,41786,lamp (lighting device)
+652,41786,sculpture
+653,41769,drawing
+654,41754,bronzes
+655,41754,sculpture
+656,41978,necklaces
+657,41978,ornament
+658,41978,pendants (jewelry)
+659,41971,calligraphy (visual work)
+660,41971,handscroll
+661,41971,paintings
+662,41991,ceramics
+663,41991,figurines
+664,42114,drawing
+665,42295,figurines
+666,42295,jade
+667,42249,oil paintings
+668,42370,bust
+669,42370,sculpture
+670,42377,albumen prints
+671,42377,black-and-white photographs
+672,42377,black-and-white photography
+673,42386,ceramics
+674,42386,figurines
+675,42386,musical instruments
+676,42386,toys
+677,19025,ceramics
+678,19025,cup
+679,21982,albumen prints
+680,21982,black-and-white photographs
+681,21982,black-and-white photography
+682,43322,cloisonne
+683,43322,jars
+684,43322,lids
+685,43333,cloisonne
+686,43333,vases
+687,42352,oil paintings
+688,43405,jars
+689,43412,ceramics
+690,43412,jug
+691,44125,bowl (vessel)
+692,44125,stoneware
+693,45004,painting (visual work)
+694,47568,figurine
+695,47568,Sancai
+696,47566,ceramics
+697,47566,figurines
+698,42477,woodcut (print)
+699,42654,painting (image-making)
+700,42654,vases
+701,42655,drawing
+702,42742,albumen prints
+703,42742,black-and-white photographs
+704,42742,black-and-white photography
+705,51625,painting (visual work)
+706,51625,study (visual work)
+707,52947,paintings
+708,52872,albumen prints
+709,52872,black-and-white photographs
+710,52872,black-and-white photographs
+711,52872,black-and-white photography
+712,52872,black-and-white photography
+713,52872,salted paper prints
+714,16688,masks (costume)
+715,16688,sculpture
+716,55498,black-and-white photographs
+717,55498,black-and-white photography
+718,55498,photographs
+719,55556,oil paintings
+720,56238,oil paintings
+721,56301,ivories
+722,55895,Japanese printmaking styles
+723,55895,oban
+724,55895,woodblock prints
+725,56362,black-and-white photographs
+726,56362,black-and-white photography
+727,56362,photographs
+728,56358,hanging scrolls
+729,56358,Japanese painting styles
+730,56358,scroll paintings
+731,57122,sculpture
+732,57122,statue
+733,57129,urns
+734,57132,bloodletters
+735,57132,ceremonial objects
+736,57132,chisels
+737,57132,finials
+738,58323,drawing
+739,58323,pastel
+740,58323,portrait
+741,58880,ewers
+742,58880,incising
+743,58880,reliefs
+744,58880,underglazing
+745,59080,bowls (vessels)
+746,59651,oil paintings
+747,60129,ceremonial objects
+748,60129,figures (representations)
+749,60129,ikengas
+750,60785,black-and-white photographs
+751,60785,black-and-white photography
+752,60785,platinum prints
+753,61090,beadwork
+754,61090,figurines
+755,61090,funerary art
+756,61092,dyeing
+757,61092,textiles
+758,61092,weaving
+759,61091,headdresses
+760,61091,masks (costume)
+761,62508,oil paintings
+762,62897,boxes (containers)
+763,62897,funerary objects
+764,65164,oil paintings
+765,73907,beadwork
+766,73907,tunics
+767,80800,figurines
+768,34202,reliefs
+769,34085,icons
+770,34085,paintings
+771,34110,paintings
+772,34742,oil paint
+773,34742,paintings
+774,34742,tempera
+775,9659,black-and-white photographs
+776,9659,black-and-white photography
+777,9659,gum bichromate prints
+778,9659,photographs
+779,9659,photography
+780,45237,oil paintings
+781,45237,portrait
+782,45301,oil paintings
+783,45424,oil paintings
+784,45424,portrait
+785,39817,high chests of drawers
+786,45067,black-and-white photography
+787,45067,gelatin silver prints
